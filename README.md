@@ -11,6 +11,9 @@
 5. 暑假自学大学必学的高等数学
 ## 科班的学习路径
 #### 1. 路径学习：(https://study.163.com/curricula/cs.htm )
+![科班学习路线](https://github.com/Poyhub/CS-Study/blob/main/img/study2.png)
+#### 2. 计算机编程的大体分类
+![计算机编程的大体分类](https://github.com/Poyhub/CS-Study/blob/main/img/study.png)
 ---
 ## 基础学科
 #### 首先看B站看up主：昂克英文君 的收藏夹，一个个学。
