@@ -42,28 +42,28 @@
 ---
 ## 基础学科
 #### **首先看B站看up主：昂克英文君 的收藏夹，一个个学！！**【暑假学习】
-#### 英语口语（BBC发音）：(https://www.bilibili.com/video/BV1Dk4y1q781)【暑假学习】
-#### 英语语法：（中级）(https://www.bilibili.com/video/BV1zJ4115716)【暑假学习】
-#### 英语语法：（高级）(https://www.bilibili.com/video/BV1J7411H7fP)【暑假学习】
-#### 牛津英语口语：(https://www.bilibili.com/video/BV124411H71r)【大一学习】
-#### 高等数学（汤神基础班）：(https://www.bilibili.com/video/BV1HK4y1V72e)【暑假学习】
-#### 概率论与数理统计(清华)：(https://www.bilibili.com/video/BV137411R7Ed)【大一学习】
-#### 离散数学（北大）: (https://www.bilibili.com/video/BV1BW411n7gw)【大一学习】
+#### 英语口语（BBC发音）：(https://www.bilibili.com/video/BV1Dk4y1q781) 【暑假学习】
+#### 英语语法：（中级）(https://www.bilibili.com/video/BV1zJ4115716) 【暑假学习】
+#### 英语语法：（高级）(https://www.bilibili.com/video/BV1J7411H7fP) 【暑假学习】
+#### 牛津英语口语：(https://www.bilibili.com/video/BV124411H71r) 【大一学习】
+#### 高等数学（汤神基础班）：(https://www.bilibili.com/video/BV1HK4y1V72e) 【暑假学习】
+#### 概率论与数理统计(清华)：(https://www.bilibili.com/video/BV137411R7Ed) 【大一学习】
+#### 离散数学（北大）: (https://www.bilibili.com/video/BV1BW411n7gw) 【大一学习】
 #### 
 ---
 ## 专业学科
-#### C语言：(https://www.bilibili.com/video/BV19W411B7w1)【暑假学习】
-#### 数据结构：(https://www.bilibili.com/video/BV1nJ411V7bd)【暑假学习】
-#### Pyhton：(https://www.bilibili.com/video/BV1R7411F7JV)【大一学习】
-#### Java基础: (https://www.bilibili.com/video/BV18J411W7cE)【大一学习】
-#### Mysql数据库: (https://www.bilibili.com/video/BV12b411K7Zu)【大一学习】
-#### 编译原理（哈工大）：(https://www.bilibili.com/video/BV1zW411t7YE)【大一学习】
-#### 操作系统(哈工大)：(https://www.bilibili.com/video/BV1d4411v7u7)【大一学习】
-#### 计算机组成原理(哈工大)：(https://www.bilibili.com/video/BV1WW411Q7PF)【大一学习】
-#### 计算机网络：(https://www.bilibili.com/video/BV1yE411G7Ma)【大一学习】
-#### Web渗透基础：(https://www.bilibili.com/video/BV1K741147FY)【大二学习】
-#### 安卓开发：(https://www.bilibili.com/video/BV1jW411375J)【大二学习】
-#### HarmonyOS开发: (https://www.bilibili.com/video/BV1dT4y1w7Rq)【选学】
+#### C语言：(https://www.bilibili.com/video/BV19W411B7w1) 【暑假学习】
+#### 数据结构：(https://www.bilibili.com/video/BV1nJ411V7bd) 【暑假学习】
+#### Pyhton：(https://www.bilibili.com/video/BV1R7411F7JV) 【大一学习】
+#### Java基础: (https://www.bilibili.com/video/BV18J411W7cE) 【大一学习】
+#### Mysql数据库: (https://www.bilibili.com/video/BV12b411K7Zu) 【大一学习】
+#### 编译原理（哈工大）：(https://www.bilibili.com/video/BV1zW411t7YE) 【大一学习】
+#### 操作系统(哈工大)：(https://www.bilibili.com/video/BV1d4411v7u7) 【大一学习】
+#### 计算机组成原理(哈工大)：(https://www.bilibili.com/video/BV1WW411Q7PF) 【大一学习】
+#### 计算机网络：(https://www.bilibili.com/video/BV1yE411G7Ma) 【大一学习】
+#### Web渗透基础：(https://www.bilibili.com/video/BV1K741147FY) 【大二学习】
+#### 安卓开发：(https://www.bilibili.com/video/BV1jW411375J) 【大二学习】
+#### HarmonyOS开发: (https://www.bilibili.com/video/BV1dT4y1w7Rq) 【选学】
 ---
 ### 领进门的过程就基本到此为止了~往后的路还望各位学弟学妹就要根据自己的具体方向自行探索了。（后续会看情况更新一点新东西和进行修正）
 ### 整理这份资料仅仅是希望最大限度的提高新人进入计算机世界的效率。岁月很长，未来可期~
