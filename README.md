@@ -8,7 +8,7 @@
   例如核物理的模型建立、化学反应用计算机模拟、地理模型等等....）
 3. 了解你想要读的专业（在能被录取的前提下，兴趣优先，没什么特别感兴趣的我建议计算机）
 4. 训练你的普通话水平
-5. 暑假自学大学必学的高等数学
+5. **暑假自学:** 高等数学、C语言、英语
 ## 科班的学习路径
 #### 1. 路径学习：(https://study.163.com/curricula/cs.htm )
 ![科班学习路线](https://github.com/Poyhub/CS-Study/blob/main/img/study2.png)
@@ -31,12 +31,40 @@
 #### 英语语法：（高级）(https://www.bilibili.com/video/BV1J7411H7fP)
 #### 牛津英语口语：(https://www.bilibili.com/video/BV124411H71r)
 #### 高等数学（汤神基础班）：(https://www.bilibili.com/video/BV1HK4y1V72e)
+#### 概率论与数理统计(清华)：(https://www.bilibili.com/video/BV137411R7Ed)
+#### 离散数学（北大）: (https://www.bilibili.com/video/BV1BW411n7gw)
+#### 
 ---
 ## 专业学科
-
 #### C语言：(https://www.bilibili.com/video/BV19W411B7w1)
 #### 数据结构：(https://www.bilibili.com/video/BV1nJ411V7bd 【选学，提高思维能力和专业能力】)
 #### Pyhton：(https://www.bilibili.com/video/BV1R7411F7JV)
+#### Java基础: (https://www.bilibili.com/video/BV18J411W7cE)
+#### Mysql数据库: (https://www.bilibili.com/video/BV12b411K7Zu)
+#### 编译原理（哈工大）：(https://www.bilibili.com/video/BV1zW411t7YE)
+#### 操作系统(哈工大)：(https://www.bilibili.com/video/BV1d4411v7u7)
+#### 计算机组成原理(哈工大)：(https://www.bilibili.com/video/BV1WW411Q7PF)
+#### 计算机网络：(https://www.bilibili.com/video/BV1yE411G7Ma)
+#### Web渗透基础：(https://www.bilibili.com/video/BV1K741147FY)
+#### 安卓开发：(https://www.bilibili.com/video/BV1jW411375J)
+#### HarmonyOS开发: (https://www.bilibili.com/video/BV1dT4y1w7Rq)
+---
+### 领进门的过程就基本到此为止了~往后的路还望各位学弟学妹就要根据自己的具体方向自行探索了。（后续会看情况更新一点新东西和进行修正）
+### 整理这份资料仅仅是希望最大限度的提高新人进入计算机世界的效率。岁月很长，未来可期~
+---
+## 师兄们的一点小建议
+1. 进入大学后，同学们可以多多参与社交活动（各种社团活动），但是**谨记不要过度社交**，可能很多的社交是没有什么具体意义的。提高自己的专业素养、认知水平才是最重要的。
+2. 如果想要在这条路走的更加顺畅，我的建议是尽可能在大一或者大二上学期学习完基础的知识（编程语言、计算机基础等...），大二下学期以后，主要精力投入在学习具体方向的深层次技能上，**多参加比赛，暑期关注各个公司的实习生项目，不断提高专业素养。**
+3. 要开始学习为人处世的东西，大学是个小社会，会遇到形形色色的人，高中进入大学初期，或许会因为宿舍关系、社团关系、班级关系陷入社交窘境，但是请你相信，你的人生不是靠这些与你无关甚至伤害你的人去获得提高的，而是一个个夜深人静的夜晚或者太阳初起的清晨，自己的奋斗和坚持。回到第一点，既要社交，又要学会避免无效的社交。
+4. 努力不是泡在图书馆十个小时就是努力，努力是你很清楚在效率高的时候做该做的事，大学没有必要像高中那么累，大多数人的累依然是无效的。**提高效率，而不是提高时间。**
+5. 完成上面的学习之余，还有一些辅助性资料推荐
+  * 资料1：(https://github.com/DuHouAn/Java)
+  * 资料2：(https://github.com/wx-chevalier/Awesome-CS-Books-and-Digests)
+  * 资料3: (https://github.com/justjavac/free-programming-books-zh_CN)
+  * 资料4：(https://github.com/XiangLinPro/IT_book)
+  * 资料5：(https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)
+
+6. 有点懒....后续会陆续补充，考试较多~~~~
 ---
 ## 致谢
 
