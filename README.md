@@ -81,6 +81,7 @@
   * 资料5：(https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)
 
 6. 有点懒....后续会陆续补充，考试较多~~~~
+7. **要是条件允许点个Start再走哇**
 ---
 ## 致谢
 
