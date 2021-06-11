@@ -11,9 +11,9 @@
 5. **暑假自学:** 高等数学、C语言、英语(最起码四级水平)
 ## 科班的学习路径
 #### 1. 路径学习：(https://study.163.com/curricula/cs.htm )
-![科班学习路线](https://github.com/Poyhub/CS-Study/blob/main/img/study2.png)
+![科班学习路线](https://www.anhunsec.cn/study.png)
 #### 2. 计算机编程的大体分类
-![计算机编程的大体分类](https://github.com/Poyhub/CS-Study/blob/main/img/study.png)
+![计算机编程的大体分类](https://www.anhunsec.cn/study2.png)
 ---
 ## 了解计算机专业的方向（仅展示部分，没有展示的要么天坑不建议、要么我不太了解）
 #### 计算机科学与技术（080901）
