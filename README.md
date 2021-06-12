@@ -1,3 +1,4 @@
+[![Page Views Count](https://badges.toozhao.com/badges/01F7ZQ41TN00E4646H2X59FBRN/green.svg)](https://badges.toozhao.com/stats/01F7ZQ41TN00E4646H2X59FBRN "Get your own page views count badge on badges.toozhao.com")
 # CS-学习路线
 分享一下这4年来的经验，给刚刚结束高考的学弟学妹们一点学习经验
 
